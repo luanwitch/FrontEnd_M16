@@ -1,0 +1,1 @@
+{"version":3,"file":"aritmetica.js","sources":["aritmetica.js"],"sourcesContent":["const somar = require('../../sum');\r\n\r\nconsole.log('Somar: ', somar(10, 20));"],"names":["somar","require","console","log"],"mappings":"AAAA,IAAMA,MAAQC,QAAQ,WAAW,EAEjCC,QAAQC,IAAI,UAAWH,MAAM,GAAI,EAAE,CAAC"}

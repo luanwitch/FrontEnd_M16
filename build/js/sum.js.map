@@ -1,0 +1,1 @@
+{"version":3,"file":"sum.js","sources":["sum.js"],"sourcesContent":["function somar(a, b) {\r\n    return a + b;\r\n}\r\n\r\nconsole.log(somar(10, 20));"],"names":["somar","a","b","console","log"],"mappings":"AAAA,SAASA,MAAMC,EAAGC,GACd,OAAOD,EAAIC,CACf,CAEAC,QAAQC,IAAIJ,MAAM,GAAI,EAAE,CAAC"}
